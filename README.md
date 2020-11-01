@@ -1,11 +1,11 @@
 ### Hola, 👋Yo soy Charu
 <h3> 💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.<br>
-- 🎓 &nbsp; Studying Information Technology at [Velammal College Of Engineering and Technology](http://vcet.ac.in/)
-- 🌱 &nbsp; Learning more about Machine Learning and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing teaching as side hustle. 
-- 💬 &nbsp; Ask me about web development or any related stuff.
-- 📫 &nbsp; Reach me via[Linkedin-Charulatha J](https://bit.ly/31Dj8dH) 
+- 🎓 &nbsp; Studying Information Technology at [Velammal College Of Engineering and Technology](http://vcet.ac.in/)<br>
+- 🌱 &nbsp; Learning more about Machine Learning and Artificial Intelligence.<br>
+- ✍️ &nbsp; Pursuing teaching as side hustle. <br>
+- 💬 &nbsp; Ask me about web development or any related stuff.<br>
+- 📫 &nbsp; Reach me via [Linkedin-Charulatha J](https://bit.ly/31Dj8dH) <br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 - 💻 &nbsp;

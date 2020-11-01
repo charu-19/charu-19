@@ -1,6 +1,6 @@
 ### Hola, 👋Yo soy Charu
 <h3> 💻 &nbsp;About Me </h3>
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.<br>
 - 🎓 &nbsp; Studying Information Technology at [Velammal College Of Engineering and Technology](http://vcet.ac.in/)
 - 🌱 &nbsp; Learning more about Machine Learning and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing teaching as side hustle. 

@@ -5,7 +5,7 @@
 - 🌱 &nbsp; Learning more about Machine Learning and Artificial Intelligence.<br>
 - ✍️ &nbsp; Pursuing teaching as side hustle. <br>
 - 💬 &nbsp; Ask me about web development or any related stuff.<br>
-- 📫 &nbsp; Reach me via [Linkedin-Charulatha J](https://bit.ly/31Dj8dH) <br>
+- 📫 &nbsp; Reach me via [Linkedin](https://bit.ly/31Dj8dH) <br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 - 💻 &nbsp;

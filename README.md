@@ -6,7 +6,7 @@
 - ✍️ &nbsp; Pursuing teaching as side hustle. <br>
 - 💬 &nbsp; Ask me about web development or any related stuff.<br>
 
-<h3> 🤝🏻 &nbsp; Tech Stack </h3>
+<h3>  &nbsp; Tech Stack </h3>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" title="javascript"></code>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="html5"></code>

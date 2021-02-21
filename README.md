@@ -22,7 +22,6 @@
 <a href="https://bit.ly/31Dj8dH"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Charulatha%20J-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:charulathajanardhanan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-charulathajanardhanan@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-![Charu Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=charu-19&show_icons=true&include_all_commits=true&theme=radical)
 
 
 

@@ -4,7 +4,6 @@
 - 🎓 &nbsp; Studying Information Technology at Velammal College Of Engineering and Technology<br>
 - 🌱 &nbsp; Learning more about Machine Learning and Artificial Intelligence.<br>
 - ✍️ &nbsp; Pursuing teaching as side hustle. <br>
-- 💬 &nbsp; Ask me about web development or any related stuff.<br>
 
 <h3>  &nbsp; Tech Stack </h3>
 <code><img height="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" title="python"></code>
